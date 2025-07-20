@@ -1,4 +1,5 @@
 function addtask(){
+    console.log("task functionality started.");
     const input=document.getElementById('taskinpute');
     const task=input.ariaValueMax.trim();
 
